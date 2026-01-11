@@ -102,7 +102,7 @@ py main.py
 
 ---
 
-### 🧠 Educational Goal
+###  Educational Goal
 
 CipherLab is designed to help students understand:
 
